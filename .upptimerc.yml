@@ -1,31 +1,28 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Upptime de ContratoChileno: GitHub visita estas páginas cada 5 minutos.
+# Si una no responde, abre un "issue" en este repositorio y GitHub le avisa a Fran por correo.
+# Solo ContratoChileno (StarMap no se toca hasta 2027).
+owner: franciscoaldun
+repo: estado-contratochileno
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Portada (contrato de arriendo)
+    url: https://contratochileno.cl
+  - name: Poder simple
+    url: https://contratochileno.cl/poder-simple
+  - name: Contrato de trabajo
+    url: https://contratochileno.cl/contrato-de-trabajo
+  - name: Finiquito laboral
+    url: https://contratochileno.cl/finiquito-laboral
+  - name: Mapa del sitio
+    url: https://contratochileno.cl/sitemap.xml
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /estado-contratochileno
+  name: Estado de ContratoChileno
+  introTitle: "**ContratoChileno.cl**: estado del sitio en tiempo real"
+  introMessage: Revisamos cada 5 minutos que las páginas principales respondan bien. Si algo falla, aparece aquí al tiro.
   navbar:
-    - title: Status
+    - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Ir a ContratoChileno.cl
+      href: https://contratochileno.cl
