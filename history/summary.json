@@ -72,6 +72,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Contrato de mutuo",
+    "url": "https://contratochileno.cl/contrato-de-mutuo",
+    "icon": "https://icons.duckduckgo.com/ip3/contratochileno.cl.ico",
+    "slug": "contrato-de-mutuo",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Mapa del sitio",
     "url": "https://contratochileno.cl/sitemap.xml",
     "icon": "https://icons.duckduckgo.com/ip3/contratochileno.cl.ico",
