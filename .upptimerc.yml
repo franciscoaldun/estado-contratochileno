@@ -13,6 +13,8 @@ sites:
     url: https://contratochileno.cl/contrato-de-trabajo
   - name: Finiquito laboral
     url: https://contratochileno.cl/finiquito-laboral
+  - name: Contrato de mutuo
+    url: https://contratochileno.cl/contrato-de-mutuo
   - name: Mapa del sitio
     url: https://contratochileno.cl/sitemap.xml
 
